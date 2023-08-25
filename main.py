@@ -9,7 +9,7 @@ import json
 
 with open("config.json", "r") as f:
 	data = json.load(f)
-	bot_token = data["token"]
+	bot_token = data["6577663724:AAGL0VgEBYCIcJCt-2RHki8zh5iwEk-ew_Y"]
 
 
 
