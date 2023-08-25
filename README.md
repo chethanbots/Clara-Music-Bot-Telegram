@@ -17,7 +17,7 @@ You need to put essential bot details in [config.json]("https://github.com/typho
 
 ```json
 {
-    "token" : "Your-Bot-Token-here",
+    "token" : "6577663724:AAGL0VgEBYCIcJCt-2RHki8zh5iwEk-ew_Y",
 }
 ```
 
